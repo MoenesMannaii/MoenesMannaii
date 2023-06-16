@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=MoenesMannaii.MoenesMannaii)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=MoenesMannaii.MoenesMannaii) -->
 
 - 👋 Hello World, I’m @MoenesMannaii, Budding Fullstack JS Developer
 - 👀 I’m interested in ReactJS
