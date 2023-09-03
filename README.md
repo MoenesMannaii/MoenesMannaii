@@ -21,7 +21,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="Mysql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://freepngimg.com/save/71302-express.js-chrome-javascript-system-node.js-v8-runtime/1843x1129" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://companieslogo.com/img/orig/MDB_BIG.D-96d632a9.png?t=1648915248" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🔗 Connect with me :
