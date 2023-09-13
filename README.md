@@ -22,6 +22,8 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="Mysql" title="Mysql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://freepngimg.com/save/71302-express.js-chrome-javascript-system-node.js-v8-runtime/1843x1129" alt="NodeJS" title="NodeJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB" title="mongoDB" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" title="Figma" height="40" style="vertical-align:top; margin:4px">
+<img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="Adobe Xd" title="Adobe Xd" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🔗 Connect with me :
