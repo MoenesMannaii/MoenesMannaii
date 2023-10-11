@@ -1,6 +1,6 @@
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=MoenesMannaii.MoenesMannaii) -->
 
-- 👋 Hello World, I’m @MoenesMannaii, a Fullstack JS Developer in the making :)
+- 👋 Hello World, I’m @MoenesMannaii, a Fullstack JS Developer :)
 - 👀 I’m interested in ReactJS & TypeScript
 - 🌱 I'm currently expanding my knowledge in databases, server technologies, and cloud platforms !
 - 🕵️‍♂️ I'm looking to collaborate on exciting web projects and share my expertise !
