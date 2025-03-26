@@ -1,7 +1,7 @@
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=MoenesMannaii.MoenesMannaii) -->
 
 - 👋 Hello World, I’m @MoenesMannaii, a Fullstack JS Developer :)
-- 👀 I’m interested in ReactJS & TypeScript
+- 👀 I’m interested in ReactJS & NextJS & TypeScript
 - 🌱 I'm currently expanding my knowledge in databases, server technologies, and cloud platforms !
 - 🕵️‍♂️ I'm looking to collaborate on exciting web projects and share my expertise !
 - 👨‍💻 All of my projects are available at [https://github.com/MoenesMannaii?tab=repositories](https://github.com/MoenesMannaii?tab=repositories)
