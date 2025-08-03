@@ -41,10 +41,11 @@
 
 ## 📉 My Github Stats:
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoenesMannaii&theme=shadow_dark" />
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoenesMannaii&theme=shadow_dark" style="width: 300px; height: 150px; object-fit: contain;" />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MoenesMannaii" />
+    <img src="https://streak-stats.demolab.com/?user=MoenesMannaii" style="width: 300px; height: 150px; object-fit: contain;" />
   </a>
 </div>
+
 
