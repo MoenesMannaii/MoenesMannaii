@@ -41,7 +41,7 @@
 
 ## 📉 My Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoenesMannaii&theme=shadow_orange)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoenesMannaii&theme=shadow_dark)
 ![MoenesMannaii's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoenesMannaii&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MoenesMannaii)](https://git.io/streak-stats)
