@@ -10,7 +10,7 @@
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript" title="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" title="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://imgs.search.brave.com/lV43XijqCcOIf8S72xipUZS3OJGx_YX_NGNOpBoXKH4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvY3Nz/My1sb2dvLXBuZy10/cmFuc3BhcmVudC5w/bmc" alt="CSS" title="CSS" height="60" style="vertical-align:top; margin:4px">
+<img src="https://imgs.search.brave.com/lV43XijqCcOIf8S72xipUZS3OJGx_YX_NGNOpBoXKH4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvY3Nz/My1sb2dvLXBuZy10/cmFuc3BhcmVudC5w/bmc" alt="CSS" title="CSS" height="50" style="vertical-align:top; margin:4px">
 <img src="https://imgs.search.brave.com/bkeUpGJTRCwo0ehA6bJmea8dNBrFoRjphnWY5-yIVIA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUyLzIvdHlwZXNj/cmlwdC1sb2dvLXBu/Z19zZWVrbG9nby01/MjY3MzAucG5n" alt="TypeScript" title="TypeScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap" title="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJs" title="ReactJs" height="40" style="vertical-align:top; margin:4px">
