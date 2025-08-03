@@ -33,7 +33,7 @@
 
 ## 🔗 Connect with me :
 <p align="left">
-<a href="https://instagram.com/moenes.mannaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moenes.mannaii" height="30" width="40" /></a>
+<a href="https://www.instagram.com/moenes.man" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moenes.mannaii" height="30" width="40" /></a>
 </p>
 
 ## 📉 My Github Stats:
