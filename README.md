@@ -33,6 +33,8 @@
 
 ## 🔗 Connect with me :
 <p align="left">
+<a href="https://www.linkedin.com/in/moenesmannai/" target="blank"><img align="center" src="https://imgs.search.brave.com/fbW96M932tQUfedzXuT6kVAQRjPY6_cay84clmDUE6c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2xpbmtlZGluLXdo/aXRlLWxvZ28tcG5n/LTE0LnBuZw" alt="moenes_mannai" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01d8887ce78def0f76" target="blank"><img align="center" src="https://imgs.search.brave.com/XMonLE_cWGBlchL3T-yGOeBi2o-mgrkLKh9_e71FZqI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQyLzIvdXB3b3Jr/LWxvZ28tcG5nX3Nl/ZWtsb2dvLTQyNTgz/Mi5wbmc" alt="moenes_mannai" height="30" width="40" /></a>
 <a href="https://www.instagram.com/moenes.man" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moenes.mannaii" height="30" width="40" /></a>
 </p>
 
